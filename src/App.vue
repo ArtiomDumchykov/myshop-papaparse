@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <h1>My SHOP</h1>
     <ProductList />
     <ReviewsComponent/>
     <FooterComponent />
